@@ -1,0 +1,110 @@
+
+#irwan li{
+	margin :0 auto;
+	padding: 0;
+	display: inline;
+	float: left;
+
+	
+	
+}
+#irwan li a{
+	color: white;
+	font-size: 14px;
+	padding-top: 10px;
+	margin: 0 10px;
+}
+#irwan li img{
+	width: 60px;
+	height: 50px;
+	margin: 0 10px;
+	padding-top: 0;
+	opacity: 0.75;
+}
+#inline{
+	margin:0 auto;
+    text-align: right;
+	height: 20px;
+}
+	#inline li {
+		display : inline;
+		margin-right: 30px;
+		color: white;
+		font-family: Roboto;
+	}
+		/*akhir*/
+		
+		#face img {
+			width: 50px;
+			height: 50px;
+			margin: 20px 0;
+			float : right;
+			clear: both;
+		}
+		#git img{
+			width: 50px;
+			height: 50px;
+			float: right;
+			clear: both;
+		}
+	
+	
+	#hacktiv img {
+		width: 250px;
+        height: 200px;
+		opacity: 0.75;
+	}
+	.editing{
+     width: 100%;
+     height: 100%;
+     position: fixed;
+     z-index: -1;
+     left: 0;
+	}
+	
+		
+		/*judul..*/
+		#header{
+			font-size: 60px;
+			color: #C0C0C0;
+			text-align: center;
+			font-family: Times New Roman;
+	padding-bottom: 200px;
+			
+		}
+
+		#web p a{
+			color:white;
+			padding: 0 3px;
+			font-style: none;
+		}
+		
+		
+		
+		#laptop img{
+			width: 400px;
+			height: 300px;
+			padding: 30px 0;
+			opacity: 0.75;
+		}
+		.tengah{
+			font-size: 16px;
+			color: white;
+			font-family: Roboto;
+		}
+		
+		#tips h4 a{
+			font-size:12px;
+			color: white;
+			padding-bottom: 100px;
+			
+		}
+		#footer h6{
+			padding-top: 200px;
+			text-align: center;
+		}
+		}
+	
+		
+		
+
